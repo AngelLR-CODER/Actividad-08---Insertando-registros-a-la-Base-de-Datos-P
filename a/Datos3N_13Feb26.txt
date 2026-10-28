@@ -1,0 +1,42 @@
+Nombre : angel
+Apellidos : Lopez Ramirez
+Edad : 19
+Telefono : 9612356188
+Estatura : 1.67
+Genero : Masculino
+
+Nombre : Angel
+Apellidos : Lopez Ramirez
+Edad : 19
+Telefono : 9612356188
+Estatura : 1.67
+Genero : Masculino
+
+Nombre : Angel
+Apellidos : Lopez Ramirez
+Edad : 19
+Telefono : 9612356188
+Estatura : 1.67
+Genero : Masculino
+
+Nombre : Bryan Alegandro
+Apellidos : Perez Perez
+Edad : 21
+Telefono : 0123456789
+Estatura : 1.75
+Genero : Masculino
+
+Nombre : Angel de Jesus
+Apellidos : Lopez Ramirez
+Edad : 19
+Telefono : 1234567890
+Estatura : 1.67
+Genero : Masculino
+
+Nombre : Angel de Jesus
+Apellidos : Lopez Ramirez
+Edad : 19
+Telefono : 1234567890
+Estatura : 1.67
+Genero : Masculino
+
